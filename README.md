@@ -153,4 +153,4 @@ position: relative;
 
 
 ## Result:
-Write your result
+Book cover is desinged successfully
